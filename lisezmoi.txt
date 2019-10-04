@@ -1,0 +1,9 @@
+#Auteur: Fatma Saal
+#Objet: Projet taquin
+
+#Un module taquin:
+#Commandes pourrait être un dictionnaire, avec en clé la commande qui sera donnée par l'utilisateur et en valeur les fonctions haut, bas, gauche, droite pour bouger les pièces.
+
+#Nous avons choisi, pour représenter les valeaurs dans le tableau, d'utiliser une liste de liste, chaque liste représentant une ligne.
+#Pour que le taquin soit résoluble : Nous créons une liste avec les clés de COMMANDES, les clés sont mélangées, puis nous faisons exécuter les fonctions correspondantes, de cette manière le jeu est mélangé de manière aléatoire.
+
